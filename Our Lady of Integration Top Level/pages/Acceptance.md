@@ -1,0 +1,3 @@
+- The state of knowing without judgement how things are and that they are.
+- In this state, one realizes the philosophy [[It's all the same]] by engaging in the act of [[Chop Wood, Carry Water]] without [[Ignorance]] as to its [[Divine]] nature.
+- In [[Our Lady of Integration]], acceptance is the state of being associated with the [[Practice]] of [[Enlightenment]].

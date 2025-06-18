@@ -1,0 +1,3 @@
+- The ability to process of determining [[Right and Wrong]].
+- The conscience is the basic ability of the [[Mind]] to moralize [[Experience]], [[Story]], and [[Concept]].
+- In [[Our Lady of Integration]], the conscience is the basic mental capacity to make moral propositions through the use of [[Rhetorical Appeal]].

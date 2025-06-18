@@ -1,0 +1,10 @@
+- Philosophy/Rhetorical Appeal: [[Pathos]]
+- Practice/State of Being: [[Thought]]
+- Enlightenment/Essence: [[Mind]]
+- Icon/Symbol: [[Icon]]
+- Idol/Value:
+	- Christianity (OT): [[Mercy]]
+	- Christianity (NT): [[The Father]]
+	- Buddhism: [[Dharma]]
+- God/Worship: [[Belief]]
+- Power/Magic: [[Word]]

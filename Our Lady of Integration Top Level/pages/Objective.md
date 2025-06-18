@@ -1,0 +1,3 @@
+- Having to do with the physical reality that exists outside of [[Mind]] and [[Experience]].
+- The [[Objective]] exists externally to the personal experience, and thus may be interacted with objectively. However, when interacted with by an individual, that experience occurs in the internal [[Personal]] realm as opposed to the external objective.
+- In [[Our Lady of Integration]] , the objective refers to that which is manifest in physical form as an object. Being manifest as an object, any individual can interact with the objective objectively, or in other words, as a shareable experience ([[Communion]]).

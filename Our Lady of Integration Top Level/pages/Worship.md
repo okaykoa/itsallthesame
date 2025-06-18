@@ -1,0 +1,2 @@
+- The formal or ritual expression of [[Devotion]].
+- Worship is a practice of belief that devotion to [[God]] brings about the [[Values]] derived from [[Experience]] with God.

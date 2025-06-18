@@ -1,0 +1,137 @@
+{:blocks (
+{:block/content "It's all the same"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "684491ed-70c2-48a6-acc7-8656c45b7186"}
+:block/parent 
+{:block/uuid #uuid "684491ed-70c2-48a6-acc7-8656c45b7186"}
+:block/uuid #uuid "68449205-ba17-4dd2-9bbf-d3be5338b843"} 
+{:block/created-at 1749326429158
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "Our Lady of Integration"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [512 398.00007582628365]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e0b6f910-43d8-11f0-bedf-c52bac7f8793"
+:noFill false
+:point [384 256]
+:parentId "page"
+:collapsedHeight 0
+:nonce 1749325921448}}
+:block/updated-at 1749326429158} 
+{:block/created-at 1749326155927
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "Enlightenment"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [512 373.9999893281186]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e59d17c0-43d8-11f0-bedf-c52bac7f8793"
+:noFill false
+:point [384 -256]
+:parentId "page"
+:collapsedHeight 0
+:nonce 1749325929939}}
+:block/updated-at 1749326155927} 
+{:block/created-at 1749326201091
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "Practice"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [512 373.99996201951416]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e8d4ea30-43d8-11f0-bedf-c52bac7f8793"
+:noFill false
+:point [896 768]
+:parentId "page"
+:collapsedHeight 0
+:nonce 1749325935757}}
+:block/updated-at 1749326201091} 
+{:block/created-at 1749326198028
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "Philosophy"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [512 373.99996201951416]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "eb5b6e00-43d8-11f0-bedf-c52bac7f8793"
+:noFill false
+:point [-128 768]
+:parentId "page"
+:collapsedHeight 0
+:nonce 1749325939816}}
+:block/updated-at 1749326198028})
+:pages (
+{:block/uuid #uuid "684491ed-70c2-48a6-acc7-8656c45b7186"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "684491ed-70c2-48a6-acc7-8656c45b7186"
+:name "principles of our lady of integration"
+:bindings 
+{}
+:nonce 0
+:assets []
+:shapes-index ("e0b6f910-43d8-11f0-bedf-c52bac7f8793" "e59d17c0-43d8-11f0-bedf-c52bac7f8793" "e8d4ea30-43d8-11f0-bedf-c52bac7f8793" "eb5b6e00-43d8-11f0-bedf-c52bac7f8793")}}
+:block/updated-at 1749326575607
+:block/created-at 1749324269001
+:block/type "whiteboard"
+:block/name "principles of our lady of integration"
+:block/original-name "Principles of Our Lady of Integration"})}

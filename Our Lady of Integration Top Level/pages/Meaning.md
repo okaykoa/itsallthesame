@@ -1,0 +1,4 @@
+- The product of [[Personal]] [[Absurd]] [[Experience]].
+- Meaning is a semiotic [[Index]] of the [[Divine]] [[Experience]]. Meaning is the residual [[Pathos]] of [[Being]].
+- Meaning is behind all [[Story]], [[Narrative]], [[Symbol]], and [[Rhetorical Appeal]].
+- Meaning is both [[Idiosyncratic]] and [[Emergent]] as a biological and social construct. The semiotic [[Symbol]] is socially-constructed meaning.

@@ -1,0 +1,1 @@
+- A term of playful jargon, combining [[Conscience]] and [[Consciousness]] to convey the two aspects of [[Experience]].

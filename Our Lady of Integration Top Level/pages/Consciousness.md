@@ -1,0 +1,3 @@
+- Generally referring to awareness of [[Self]] and the world.
+- Consciousness is an immense term, worthy of far more description than provided in [[Our Lady of Integration]].
+- In [[Our Lady of Integration]], consciousness is the foundational physical or biological ability to experience the world as a person, forming one half of the process of [[Conscienceness]].

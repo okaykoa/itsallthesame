@@ -1,0 +1,10 @@
+- Philosophy/Rhetorical Appeal: [[It's all the same]]
+- Practice/State of Being: [[Philosophy]], [[Practice]], [[Enlightenment]]
+- Enlightenment/Essence: [[Religion]]
+- Icon/Symbol:
+	- [[God]]
+	- [[Human]]
+	- [[The in-between]]
+- Idol/Value: [[Well-being]]
+- God/Worship: [[Absurd]]
+- Power/Magic: [[Being]]

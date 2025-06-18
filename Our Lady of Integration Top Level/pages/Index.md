@@ -1,0 +1,2 @@
+- The evidentiary [[Signifier]] of the [[Signified]].
+- An index is different from an [[Icon]] or [[Symbol]] in that is does not represent the thing directly but is the direct continuity of the thing or event. In the classic example: smoke is an index of fire.

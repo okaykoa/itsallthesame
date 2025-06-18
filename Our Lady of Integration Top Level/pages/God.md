@@ -1,0 +1,3 @@
+- The experience of the [[Divine]].
+- In many religions, god functions as an [[Icon]], [[Idol]], [[Experience]], or some combination of any of the three.
+- In [[Our Lady of Integration]], god is contingent on the three qualities of [[Personal]] [[Absurd]] [[Experience]].

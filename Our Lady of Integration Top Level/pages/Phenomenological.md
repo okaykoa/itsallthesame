@@ -1,0 +1,3 @@
+- Relating to the research approach of phenomenology, where the essence of a phenomenon is explored  from the perspective of those who experience it.
+- Related to phenomenal in terms of being perceptible through the senses and immediate experience.
+- In [[Our Lady of Integration]], phenomenological only refers to personal understanding and knowing through immediate experience.

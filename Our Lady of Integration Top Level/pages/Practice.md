@@ -1,0 +1,10 @@
+- Philosophy/Rhetorical Appeal: [[Ethos]]
+- Practice/State of Being: [[Action]]
+- Enlightenment/Essence: [[Heart]]
+- Icon/Symbol: [[Idol]]
+- Idol/Value:
+	- Christianity (OT): [[Virtue]]
+	- Christianity (NT): [[The Son]]
+	- Buddhism: [[Sangha]]
+- God/Worship: [[Ritual]]
+- Power/Magic: [[Might]]

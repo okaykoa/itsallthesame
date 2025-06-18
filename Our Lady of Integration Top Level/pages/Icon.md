@@ -1,0 +1,3 @@
+- A representation of a thing or event, conveying the meaning of that thing or event.
+- An icon is story created from meaning. The icon is the representation of a thing or event, but is not the same as the thing or event. The icon is always an abstract pointer toward the thing or event it represents. An icon is the [[Signifier]] that points to the [[Signified]].
+- In [[Our Lady of Integration]], the icon is a representation of [[Personal]] [[Absurd]] [[Experience]] in the form of a [[Story]], [[Symbol]], and [[Value]].

@@ -1,0 +1,3 @@
+- The human experience of negative orientation toward a part or the whole of existence.
+- Negative orientation towards the whole fixates on a part to the point of conflation with the whole.
+- Fundamentally sees things as parts and fails to see that [[It's all the same]]

@@ -1,0 +1,3 @@
+- Having to do with an individual's unique [[Experience]] and perspective.
+- That which is personal should not or cannot be refuted, challenged or invalidated by a person other than the individual to whom the personal pertains.
+- In [[Our Lady of Integration]], the personal refers to that which is [[Subjective]]. All that is subjective occurs in the experience of an individual and is inaccessible to others, as opposed to the [[Objective]].

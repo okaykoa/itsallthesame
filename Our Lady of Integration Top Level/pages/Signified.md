@@ -1,0 +1,2 @@
+- Meaning either that which exists in the [[Objective]] state of external reality or that which is an [[Experience]] of [[Pure Being]].
+- [[Signifiers]] are signs that point toward the signified. "Fire" is a [[Symbol]] for fire. A picture of a fire is an [[Icon]] for fire. Smoke is an [[Index]] of a fire. The real fire is the signified.

@@ -1,0 +1,3 @@
+- The quality of [[Personal]] [[Experience]], being subject to the internal [[Mind]] or experience of the individual.
+- That which is subjective is contingent or limited to the perspective and experience of the individual. This quality is similar to the [[Absurd]] in the sense that perspectives may vary from individual to individual.
+- In [[Our Lady of Integration]], subjective is the primary quality of the [[Personal]].

@@ -1,0 +1,2 @@
+- The human [[Experience]] of indiscriminate omni-benevolent [[Orientation]] that occurs during [[Enlightenment]]
+- Fundamentally realizes that [[It's all the same]]

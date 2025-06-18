@@ -1,0 +1,4 @@
+- [[Phenomenological]] knowing or understanding.
+- A person's experience is that which they lived through, which may be more or less consistent with the external [[Objective]] reality, but is primarily dependent on [[Personal]] aspects of their experience. Although not synonymous with [[Empirical]] experience, the similarities are found in the individual's observation of an event regardless of their role in it (1st, 2nd, or 3rd person perspective).
+- This concept may be considered similar or interchangeable with the concept of [[Consciousness]], however in the context of [[Our Lady of Integration]], mere consciousness does not capture the full essence of experience as [[Meaning]] is the central focus of experience, but is not necessarily a product or aspect of consciousness. Experience could be said to be at the intersection of conscious and [[Conscience]], or [[Conscienceness]].
+- Experience is the existential foundation of [[Our Lady of Integration]].

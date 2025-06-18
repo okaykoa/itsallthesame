@@ -1,0 +1,1 @@
+- A method of analysis based on verifiable observation rather than logic.

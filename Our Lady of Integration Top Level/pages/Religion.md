@@ -1,0 +1,2 @@
+- Systemic [[Worship]], featuring systems of [[Belief]], [[Ritual]], and [[Community]].
+- The systems of religion produce objects of worship ([[Fixture]] and [[Structure]]) that are interfaced as [[Icon]] and [[Idol]] by religious observers.

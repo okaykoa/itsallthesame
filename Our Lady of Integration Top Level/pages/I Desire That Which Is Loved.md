@@ -1,0 +1,3 @@
+- The human experience of negative orientation toward what is and a positive orientation toward an abstract concept.
+- This experience naturally drives behaviors that manifest the abstract concept through its realization or the attempt at such.
+- Fundamentally sees things as potential and changeable but fails to see that regardless of input output before and after, [[It's all the same]]
