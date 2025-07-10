@@ -1,3 +1,3 @@
 - The individual ([[humanism]])
-- Freedom ([[free will]])
+- Freedom ([[Free Will]])
 - Choice

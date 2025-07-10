@@ -1,0 +1,1 @@
+- The idea that focus or intense care of a task or thing can bring about an experience of intense focus that turns off the talking part of the brain, which can be described as the [[Flow]] state

@@ -4,7 +4,7 @@
 	- [[esotericism]], [[gnosticism]], [[god]]
 - relates to:
 - Qualities:
-	- [[spirituality]], [[transcendence]], [[ineffable]], [[occult]]
+	- [[spirituality]], [[Transcendence]], [[ineffable]], [[occult]]
 - Products:
 	- [[religion]], [[cult]], [[art]]
 	-

@@ -1,5 +1,5 @@
 {:blocks (
-{:block/created-at 1749772872526
+{:block/created-at 1750186082127
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -7,26 +7,26 @@
 :stroke ""
 :collapsed false
 :borderRadius 8
-:index 1
+:index 29
 :scale [1 1]
-:pageId "Enlightenment"
+:pageId "Insecure"
 :scaleLevel "md"
 :fill ""
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 374.00001531184773]
+:size [400 261.9999864559664]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:id "0b341190-47e5-11f0-bedf-c52bac7f8793"
+:id "204a2b20-4b94-11f0-8c33-e5496242a4da"
 :noFill false
-:point [512 -472]
+:point [496 1696]
 :parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:collapsedHeight 374
-:nonce 1749770951243}}
-:block/updated-at 1749772872526} 
-{:block/created-at 1749772872526
+:collapsedHeight 0
+:nonce 1750176002424}}
+:block/updated-at 1752123488088} 
+{:block/created-at 1749776836897
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -34,300 +34,68 @@
 :stroke ""
 :collapsed false
 :borderRadius 8
-:index 2
+:index 12
 :scale [1 1]
-:pageId "Practice"
+:pageId "Religion"
 :scaleLevel "md"
 :fill ""
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 374.0000747639728]
+:size [400 237.99994038695834]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:id "0f871800-47e5-11f0-bedf-c52bac7f8793"
+:id "9fb6ba30-47e9-11f0-bedf-c52bac7f8793"
 :noFill false
-:point [1696 1376]
+:point [504 1288]
 :parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:collapsedHeight 374
-:nonce 1749770958840}}
-:block/updated-at 1749772872526} 
-{:block/created-at 1749774767926
+:collapsedHeight 112.99998163045609
+:nonce 1749772918473}}
+:block/updated-at 1749776836897} 
+{:block/created-at 1750186325517
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:blockType "P"
-:stroke ""
-:rotation 0
-:collapsed false
-:borderRadius 8
-:index 3
-:scale [1 -1]
-:pageId "Philosophy"
-:scaleLevel "md"
-:fill ""
-:compact false
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 374.00005800665195]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "12c94ab0-47e5-11f0-bedf-c52bac7f8793"
-:noFill false
-:point [-656 1400]
-:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:collapsedHeight 374
-:nonce 1749770965471}}
-:block/updated-at 1749774767926} 
-{:block/created-at 1749775418467
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "P"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 4
-:scale [1 1]
-:pageId "Worship"
-:scaleLevel "md"
-:fill ""
-:compact false
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 237.99999554896453]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "359d0090-47e5-11f0-bedf-c52bac7f8793"
-:noFill false
-:point [1016 968]
-:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:collapsedHeight 93
-:nonce 1749771023897}}
-:block/updated-at 1749775418467} 
-{:block/content ""
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "684b62c2-477f-44d9-9629-c15edfcd041d"}
-:block/parent 
-{:block/uuid #uuid "684b62c2-477f-44d9-9629-c15edfcd041d"}
-:block/uuid #uuid "684b652f-cc71-4d52-9bec-bf661d09a8a1"} 
-{:block/created-at 1749949386478
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke "#525252"
-:rotation 0
-:index 0
-:scale [1 1]
-:scaleLevel "md"
-:fill "#9e9e9e"
-:type "polygon"
-:isFlippedY false
-:size [1848 1728]
-:strokeType "line"
-:ratio 1
-:strokeWidth 2
-:opacity 1
-:label ""
-:sides 3
-:id "7dcf1960-47e6-11f0-bedf-c52bac7f8793"
-:fontWeight 400
-:noFill false
-:point [-224 -64]
-:fontSize 20
-:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:nonce 1749771573642
-:italic false}}
-:block/updated-at 1749949386478} 
-{:block/content "I Love It"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "684b652f-cc71-4d52-9bec-bf661d09a8a1"}
-:block/parent 
-{:block/uuid #uuid "684b62c2-477f-44d9-9629-c15edfcd041d"}
-:block/uuid #uuid "684b65a4-a2b2-43f3-a80c-d513b2f429c1"} 
-{:block/created-at 1749775040506
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "P"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 5
-:scale [1 1]
-:pageId "I Don't Love It"
-:scaleLevel "md"
-:fill ""
-:compact false
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 290.99977742041455]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "dfbde660-47e6-11f0-bedf-c52bac7f8793"
-:noFill false
-:point [-176 1400]
-:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:collapsedHeight 92.99999999999999
-:nonce 1749771737636}}
-:block/updated-at 1749775040506} 
-{:block/created-at 1749775108143
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "P"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 6
-:scale [1 1]
-:pageId "I Love It"
-:scaleLevel "md"
-:fill ""
-:compact false
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 237.9999760165429]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "f6336960-47e6-11f0-bedf-c52bac7f8793"
-:noFill false
-:point [512 16]
-:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:collapsedHeight 93.00001094012956
-:nonce 1749771775161}}
-:block/updated-at 1749775108143} 
-{:block/created-at 1749775030599
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "P"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 7
-:scale [1 1]
-:pageId "I Desire That Which Is Loved"
-:scaleLevel "md"
-:fill ""
-:compact false
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 362.99994232985784]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "04412100-47e7-11f0-bedf-c52bac7f8793"
-:noFill false
-:point [1184 1336]
-:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:collapsedHeight 93
-:nonce 1749771798794}}
-:block/updated-at 1749775030599} 
-{:block/created-at 1749774394885
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "P"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 8
-:scale [1 1]
-:pageId "Acceptance"
-:scaleLevel "md"
-:fill ""
-:compact false
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 314.99992805623555]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "75934a90-47e7-11f0-bedf-c52bac7f8793"
-:noFill false
-:point [512 664]
-:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:collapsedHeight 93
-:nonce 1749771989709}}
-:block/updated-at 1749774394885} 
-{:block/content "Biological Needs"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "684b65a4-a2b2-43f3-a80c-d513b2f429c1"}
-:block/parent 
-{:block/uuid #uuid "684b62c2-477f-44d9-9629-c15edfcd041d"}
-:block/uuid #uuid "684b6710-ea46-4873-9d02-f3532bba8475"} 
-{:block/created-at 1750175806415
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "P"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 9
-:scale [1 1]
-:pageId "Ignorance"
-:scaleLevel "md"
-:fill ""
-:compact false
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 386.9999887342866]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "b436c0b0-47e7-11f0-bedf-c52bac7f8793"
-:noFill false
-:point [-16 832]
-:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:collapsedHeight 93
-:nonce 1749772094671}}
-:block/updated-at 1750175806415} 
-{:block/created-at 1750186325518
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke "#0d0d0d"
-:index 10
+{:stroke "#000000"
+:index 27
 :scale [1 1]
 :scaleLevel "lg"
-:fill "#0d0d0d"
+:fill "#000000"
 :type "line"
 :strokeType "line"
 :strokeWidth 1
 :opacity 1
 :label ""
-:id "2b967c82-47e9-11f0-bedf-c52bac7f8793"
+:id "c117e612-4b93-11f0-8c33-e5496242a4da"
 :fontWeight 400
 :noFill true
-:point [385 1039.99]
+:point [228 1205.23]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 0]
-:bindingId "b0933b01-4b93-11f0-8c33-e5496242a4da"}
+:point [275 0]
+:bindingId "c4bb72a1-4b93-11f0-8c33-e5496242a4da"}
 :end 
 {:id "end"
 :canBind true
-:point [115 89.26]
-:bindingId "b2bde331-4b93-11f0-8c33-e5496242a4da"}}
+:point [0 192]
+:bindingId "cde49231-4b93-11f0-8c33-e5496242a4da"}}
 :decorations 
 {:end "arrow"}
 :parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:nonce 1749772724679
+:nonce 1750175842579
 :italic false}}
-:block/updated-at 1750186325518} 
+:block/updated-at 1752123488088} 
+{:block/content "Ethos"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "684b6710-ea46-4873-9d02-f3532bba8475"}
+:block/parent 
+{:block/uuid #uuid "684b62c2-477f-44d9-9629-c15edfcd041d"}
+:block/uuid #uuid "684b70d6-8306-445b-ad58-4e214692d67c"} 
 {:block/created-at 1749775230604
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -364,141 +132,6 @@
 :nonce 1749772811260
 :italic false}}
 :block/updated-at 1749775230604} 
-{:block/created-at 1749776836897
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "P"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 12
-:scale [1 1]
-:pageId "Religion"
-:scaleLevel "md"
-:fill ""
-:compact false
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 237.99994038695834]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "9fb6ba30-47e9-11f0-bedf-c52bac7f8793"
-:noFill false
-:point [504 1288]
-:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:collapsedHeight 112.99998163045609
-:nonce 1749772918473}}
-:block/updated-at 1749776836897} 
-{:block/created-at 1749776836909
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke "#0d0d0d"
-:index 13
-:scale [1 1]
-:scaleLevel "lg"
-:fill "#0d0d0d"
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "a8870b62-47e9-11f0-bedf-c52bac7f8793"
-:fontWeight 400
-:noFill true
-:point [908 1357.59]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [275 92.39]
-:bindingId "a8870b60-47e9-11f0-bedf-c52bac7f8793"}
-:end 
-{:id "end"
-:canBind true
-:point [0 0]
-:bindingId "a8870b61-47e9-11f0-bedf-c52bac7f8793"}}
-:decorations 
-{:end "arrow"}
-:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:nonce 1749772933105
-:italic false}}
-:block/updated-at 1749776836909} 
-{:block/created-at 1750175861331
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke "#0d0d0d"
-:index 14
-:scale [1 1]
-:scaleLevel "lg"
-:fill "#0d0d0d"
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "ab5bd641-47e9-11f0-bedf-c52bac7f8793"
-:fontWeight 400
-:noFill true
-:point [228 1378.53]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [275 0]
-:bindingId "ff2ec891-47ee-11f0-8c33-e5496242a4da"}
-:end 
-{:id "end"
-:canBind true
-:point [0 128.96]
-:bindingId "cb923dc1-4b93-11f0-8c33-e5496242a4da"}}
-:decorations 
-{:end "arrow"}
-:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:nonce 1749772938238
-:italic false}}
-:block/updated-at 1750175861331} 
-{:block/created-at 1749775418481
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke "#0d0d0d"
-:index 15
-:scale [1 1]
-:scaleLevel "lg"
-:fill "#0d0d0d"
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "bbbf3db2-47e9-11f0-bedf-c52bac7f8793"
-:fontWeight 400
-:noFill true
-:point [1303.11 1210]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [67.8 125]
-:bindingId "be535611-47e9-11f0-bedf-c52bac7f8793"}
-:end 
-{:id "end"
-:canBind true
-:point [0 0]
-:bindingId "bfece1d1-47e9-11f0-bedf-c52bac7f8793"}}
-:decorations 
-{:end "arrow"}
-:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:nonce 1749772965538
-:italic false}}
-:block/updated-at 1749775418481} 
 {:block/created-at 1749775445342
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -535,163 +168,12 @@
 :nonce 1749773012590
 :italic false}}
 :block/updated-at 1749775445342} 
-{:block/created-at 1749774400257
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "P"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 17
-:scale [1 1]
-:pageId "Biological Needs"
-:scaleLevel "md"
-:fill ""
-:compact false
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 310]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "1b01c480-47ec-11f0-8c33-e5496242a4da"
-:noFill false
-:point [96 408]
-:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:collapsedHeight 0
-:nonce 1749773984539}}
-:block/updated-at 1749774400257} 
-{:block/created-at 1749775108149
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke "#000000"
-:index 18
-:scale [1 1]
-:scaleLevel "lg"
-:fill "#000000"
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "199769a2-47ed-11f0-8c33-e5496242a4da"
-:fontWeight 400
-:noFill true
-:point [485.96 255]
-:fontSize 32
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [92.18 0]
-:bindingId "20dad941-47ed-11f0-8c33-e5496242a4da"}
-:end 
-{:id "end"
-:canBind true
-:point [0 149]
-:bindingId "199769a1-47ed-11f0-8c33-e5496242a4da"}}
-:decorations 
-{:end "arrow"}
-:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:nonce 1749774411301
-:italic false}}
-:block/updated-at 1749775108149} 
-{:block/created-at 1749774524647
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "P"
-:stroke ""
-:collapsed true
-:borderRadius 8
-:index 19
-:scale [1 1]
-:pageId "Logos"
-:scaleLevel "md"
-:fill ""
-:compact false
-:isAutoResizing false
-:type "logseq-portal"
-:size [400 40]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "551de850-47ed-11f0-8c33-e5496242a4da"
-:noFill false
-:point [512 -56]
-:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:collapsedHeight 113
-:nonce 1749774510972}}
-:block/updated-at 1749774524647} 
-{:block/created-at 1749775042959
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "P"
-:stroke ""
-:collapsed true
-:borderRadius 8
-:index 20
-:scale [1 1]
-:pageId "Pathos"
-:scaleLevel "md"
-:fill ""
-:compact false
-:isAutoResizing false
-:type "logseq-portal"
-:size [400 40]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "6106eb30-47ed-11f0-8c33-e5496242a4da"
-:noFill false
-:point [-176 1712]
-:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:collapsedHeight 112.99995963750787
-:nonce 1749774531496}}
-:block/updated-at 1749775042959} 
-{:block/content "Ethos"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "684b6710-ea46-4873-9d02-f3532bba8475"}
-:block/parent 
-{:block/uuid #uuid "684b62c2-477f-44d9-9629-c15edfcd041d"}
-:block/uuid #uuid "684b70d6-8306-445b-ad58-4e214692d67c"} 
-{:block/created-at 1750186438024
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "P"
-:stroke ""
-:collapsed true
-:borderRadius 8
-:index 21
-:scale [1 1]
-:pageId "Ethos"
-:scaleLevel "md"
-:fill ""
-:compact false
-:isAutoResizing false
-:type "logseq-portal"
-:size [400 113]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "6fcfdc80-47ed-11f0-8c33-e5496242a4da"
-:noFill false
-:point [1184 1712]
-:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:collapsedHeight 113
-:nonce 1749774556128}}
-:block/updated-at 1750186438024} 
-{:block/created-at 1749775138940
+{:block/created-at 1749776836909
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "#0d0c0c"
-:index 22
+:index 25
 :scale [1 1]
 :scaleLevel "lg"
 :fill "#0d0c0c"
@@ -700,28 +182,27 @@
 :strokeWidth 1
 :opacity 1
 :label ""
-:id "c6422ea2-47ee-11f0-8c33-e5496242a4da"
+:id "83ca3b72-47ef-11f0-8c33-e5496242a4da"
 :fontWeight 400
 :noFill true
-:point [488 512]
-:fontSize 32
+:point [908 1104]
+:fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 0]
-:bindingId nil}
+:point [124 0]}
 :end 
 {:id "end"
 :canBind true
-:point [87.84 148]
-:bindingId "c6422ea1-47ee-11f0-8c33-e5496242a4da"}}
+:point [0 220.92]
+:bindingId "83ca3b71-47ef-11f0-8c33-e5496242a4da"}}
 :decorations 
 {:end "arrow"}
 :parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:nonce 1749775130963
+:nonce 1749775448361
 :italic false}}
-:block/updated-at 1749775138940} 
+:block/updated-at 1749776836909} 
 {:block/created-at 1749775187152
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -758,7 +239,447 @@
 :nonce 1749775174512
 :italic false}}
 :block/updated-at 1749775187152} 
-{:block/created-at 1750175806415
+{:block/created-at 1749775418467
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 4
+:scale [1 1]
+:pageId "Worship"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 237.99999554896453]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "359d0090-47e5-11f0-bedf-c52bac7f8793"
+:noFill false
+:point [1016 968]
+:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
+:collapsedHeight 93
+:nonce 1749771023897}}
+:block/updated-at 1749775418467} 
+{:block/content "Biological Needs"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "684b65a4-a2b2-43f3-a80c-d513b2f429c1"}
+:block/parent 
+{:block/uuid #uuid "684b62c2-477f-44d9-9629-c15edfcd041d"}
+:block/uuid #uuid "684b6710-ea46-4873-9d02-f3532bba8475"} 
+{:block/created-at 1752123488088
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "#0d0d0d"
+:index 14
+:scale [1 1]
+:scaleLevel "lg"
+:fill "#0d0d0d"
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "ab5bd641-47e9-11f0-bedf-c52bac7f8793"
+:fontWeight 400
+:noFill true
+:point [228 1378.53]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [275 0]
+:bindingId "ff2ec891-47ee-11f0-8c33-e5496242a4da"}
+:end 
+{:id "end"
+:canBind true
+:point [0 128.96]
+:bindingId "cb923dc1-4b93-11f0-8c33-e5496242a4da"}}
+:decorations 
+{:end "arrow"}
+:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
+:nonce 1749772938238
+:italic false}}
+:block/updated-at 1752123488088} 
+{:block/created-at 1750186095287
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 30
+:scale [1 1]
+:pageId "Active"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 190]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "559b00b0-4b94-11f0-8c33-e5496242a4da"
+:noFill false
+:point [1288 656]
+:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
+:collapsedHeight 0
+:nonce 1750176091786}}
+:block/updated-at 1752123488088} 
+{:block/created-at 1752123488087
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 9
+:scale [1 1]
+:pageId "Ignorance"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 386.9999887342866]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b436c0b0-47e7-11f0-bedf-c52bac7f8793"
+:noFill false
+:point [-16 832]
+:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
+:collapsedHeight 93
+:nonce 1749772094671}}
+:block/updated-at 1752123488087} 
+{:block/created-at 1749774394885
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 8
+:scale [1 1]
+:pageId "Acceptance"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 314.99992805623555]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "75934a90-47e7-11f0-bedf-c52bac7f8793"
+:noFill false
+:point [512 664]
+:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
+:collapsedHeight 93
+:nonce 1749771989709}}
+:block/updated-at 1749774394885} 
+{:block/created-at 1749774524647
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed true
+:borderRadius 8
+:index 19
+:scale [1 1]
+:pageId "Logos"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "551de850-47ed-11f0-8c33-e5496242a4da"
+:noFill false
+:point [512 -56]
+:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
+:collapsedHeight 113
+:nonce 1749774510972}}
+:block/updated-at 1749774524647} 
+{:block/created-at 1749774400257
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 17
+:scale [1 1]
+:pageId "Biological Needs"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 310]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "1b01c480-47ec-11f0-8c33-e5496242a4da"
+:noFill false
+:point [96 408]
+:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
+:collapsedHeight 0
+:nonce 1749773984539}}
+:block/updated-at 1749774400257} 
+{:block/created-at 1749775138940
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "#0d0c0c"
+:index 22
+:scale [1 1]
+:scaleLevel "lg"
+:fill "#0d0c0c"
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "c6422ea2-47ee-11f0-8c33-e5496242a4da"
+:fontWeight 400
+:noFill true
+:point [488 512]
+:fontSize 32
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId nil}
+:end 
+{:id "end"
+:canBind true
+:point [87.84 148]
+:bindingId "c6422ea1-47ee-11f0-8c33-e5496242a4da"}}
+:decorations 
+{:end "arrow"}
+:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
+:nonce 1749775130963
+:italic false}}
+:block/updated-at 1749775138940} 
+{:block/created-at 1749775030599
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 7
+:scale [1 1]
+:pageId "I Desire That Which Is Loved"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 362.99994232985784]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "04412100-47e7-11f0-bedf-c52bac7f8793"
+:noFill false
+:point [1184 1336]
+:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
+:collapsedHeight 93
+:nonce 1749771798794}}
+:block/updated-at 1749775030599} 
+{:block/created-at 1749949386478
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "#525252"
+:rotation 0
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill "#9e9e9e"
+:type "polygon"
+:isFlippedY false
+:size [1848 1728]
+:strokeType "line"
+:ratio 1
+:strokeWidth 2
+:opacity 1
+:label ""
+:sides 3
+:id "7dcf1960-47e6-11f0-bedf-c52bac7f8793"
+:fontWeight 400
+:noFill false
+:point [-224 -64]
+:fontSize 20
+:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
+:nonce 1749771573642
+:italic false}}
+:block/updated-at 1749949386478} 
+{:block/created-at 1749775040506
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 5
+:scale [1 1]
+:pageId "I Don't Love It"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 290.99977742041455]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "dfbde660-47e6-11f0-bedf-c52bac7f8793"
+:noFill false
+:point [-176 1400]
+:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
+:collapsedHeight 92.99999999999999
+:nonce 1749771737636}}
+:block/updated-at 1749775040506} 
+{:block/created-at 1749775042959
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed true
+:borderRadius 8
+:index 20
+:scale [1 1]
+:pageId "Pathos"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6106eb30-47ed-11f0-8c33-e5496242a4da"
+:noFill false
+:point [-176 1712]
+:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
+:collapsedHeight 112.99995963750787
+:nonce 1749774531496}}
+:block/updated-at 1749775042959} 
+{:block/created-at 1750186325502
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 26
+:scale [1 1]
+:pageId "Rejection"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 213.9999143998418]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "3ca3f860-4b93-11f0-8c33-e5496242a4da"
+:noFill false
+:point [504 1064]
+:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
+:collapsedHeight 0
+:nonce 1750175620560}}
+:block/updated-at 1752123488088} 
+{:block/created-at 1749775418481
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "#0d0d0d"
+:index 15
+:scale [1 1]
+:scaleLevel "lg"
+:fill "#0d0d0d"
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "bbbf3db2-47e9-11f0-bedf-c52bac7f8793"
+:fontWeight 400
+:noFill true
+:point [1303.11 1210]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [67.8 125]
+:bindingId "be535611-47e9-11f0-bedf-c52bac7f8793"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "bfece1d1-47e9-11f0-bedf-c52bac7f8793"}}
+:decorations 
+{:end "arrow"}
+:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
+:nonce 1749772965538
+:italic false}}
+:block/updated-at 1749775418481} 
+{:block/created-at 1749772872526
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "Enlightenment"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 374.00001531184773]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0b341190-47e5-11f0-bedf-c52bac7f8793"
+:noFill false
+:point [512 -472]
+:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
+:collapsedHeight 374
+:nonce 1749770951243}}
+:block/updated-at 1749772872526} 
+{:block/created-at 1752123488088
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -793,105 +714,43 @@
 :parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
 :nonce 1749775186296
 :italic false}}
-:block/updated-at 1750175806415} 
-{:block/created-at 1749776836909
+:block/updated-at 1752123488088} 
+{:block/created-at 1752123488088
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:stroke "#0d0c0c"
-:index 25
+{:stroke "#0d0d0d"
+:index 10
 :scale [1 1]
 :scaleLevel "lg"
-:fill "#0d0c0c"
+:fill "#0d0d0d"
 :type "line"
 :strokeType "line"
 :strokeWidth 1
 :opacity 1
 :label ""
-:id "83ca3b72-47ef-11f0-8c33-e5496242a4da"
+:id "2b967c82-47e9-11f0-bedf-c52bac7f8793"
 :fontWeight 400
 :noFill true
-:point [908 1104]
+:point [385 1039.99]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [124 0]}
+:point [0 0]
+:bindingId "b0933b01-4b93-11f0-8c33-e5496242a4da"}
 :end 
 {:id "end"
 :canBind true
-:point [0 220.92]
-:bindingId "83ca3b71-47ef-11f0-8c33-e5496242a4da"}}
+:point [115 89.26]
+:bindingId "b2bde331-4b93-11f0-8c33-e5496242a4da"}}
 :decorations 
 {:end "arrow"}
 :parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:nonce 1749775448361
+:nonce 1749772724679
 :italic false}}
-:block/updated-at 1749776836909} 
-{:block/created-at 1750186325502
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "P"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 26
-:scale [1 1]
-:pageId "Rejection"
-:scaleLevel "md"
-:fill ""
-:compact false
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 213.9999143998418]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "3ca3f860-4b93-11f0-8c33-e5496242a4da"
-:noFill false
-:point [504 1064]
-:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:collapsedHeight 0
-:nonce 1750175620560}}
-:block/updated-at 1750186325502} 
-{:block/created-at 1750186325517
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke "#000000"
-:index 27
-:scale [1 1]
-:scaleLevel "lg"
-:fill "#000000"
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "c117e612-4b93-11f0-8c33-e5496242a4da"
-:fontWeight 400
-:noFill true
-:point [228 1205.23]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [275 0]
-:bindingId "c4bb72a1-4b93-11f0-8c33-e5496242a4da"}
-:end 
-{:id "end"
-:canBind true
-:point [0 192]
-:bindingId "cde49231-4b93-11f0-8c33-e5496242a4da"}}
-:decorations 
-{:end "arrow"}
-:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:nonce 1750175842579
-:italic false}}
-:block/updated-at 1750186325517} 
+:block/updated-at 1752123488088} 
 {:block/created-at 1750185996863
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -918,8 +777,99 @@
 :parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
 :collapsedHeight 0
 :nonce 1750175902505}}
-:block/updated-at 1750185996863} 
-{:block/created-at 1750186082127
+:block/updated-at 1752123488088} 
+{:block/created-at 1752123488088
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed true
+:borderRadius 8
+:index 21
+:scale [1 1]
+:pageId "Ethos"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 113]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6fcfdc80-47ed-11f0-8c33-e5496242a4da"
+:noFill false
+:point [1184 1712]
+:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
+:collapsedHeight 113
+:nonce 1749774556128}}
+:block/updated-at 1752123488088} 
+{:block/created-at 1749774767926
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 -1]
+:pageId "Philosophy"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 374.00005800665195]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "12c94ab0-47e5-11f0-bedf-c52bac7f8793"
+:noFill false
+:point [-656 1400]
+:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
+:collapsedHeight 374
+:nonce 1749770965471}}
+:block/updated-at 1749774767926} 
+{:block/created-at 1749776836909
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "#0d0d0d"
+:index 13
+:scale [1 1]
+:scaleLevel "lg"
+:fill "#0d0d0d"
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "a8870b62-47e9-11f0-bedf-c52bac7f8793"
+:fontWeight 400
+:noFill true
+:point [908 1357.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [275 92.39]
+:bindingId "a8870b60-47e9-11f0-bedf-c52bac7f8793"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "a8870b61-47e9-11f0-bedf-c52bac7f8793"}}
+:decorations 
+{:end "arrow"}
+:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
+:nonce 1749772933105
+:italic false}}
+:block/updated-at 1749776836909} 
+{:block/created-at 1749772872526
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -927,52 +877,61 @@
 :stroke ""
 :collapsed false
 :borderRadius 8
-:index 29
+:index 2
 :scale [1 1]
-:pageId "Insecure"
+:pageId "Practice"
 :scaleLevel "md"
 :fill ""
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 261.9999864559664]
+:size [400 374.0000747639728]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:id "204a2b20-4b94-11f0-8c33-e5496242a4da"
+:id "0f871800-47e5-11f0-bedf-c52bac7f8793"
 :noFill false
-:point [496 1696]
+:point [1696 1376]
 :parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:collapsedHeight 0
-:nonce 1750176002424}}
-:block/updated-at 1750186082127} 
-{:block/created-at 1750186095287
+:collapsedHeight 374
+:nonce 1749770958840}}
+:block/updated-at 1749772872526} 
+{:block/created-at 1749775108149
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:blockType "P"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 30
+{:stroke "#000000"
+:index 18
 :scale [1 1]
-:pageId "Active"
-:scaleLevel "md"
-:fill ""
-:compact false
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 190]
+:scaleLevel "lg"
+:fill "#000000"
+:type "line"
 :strokeType "line"
-:strokeWidth 2
+:strokeWidth 1
 :opacity 1
-:id "559b00b0-4b94-11f0-8c33-e5496242a4da"
-:noFill false
-:point [1288 656]
+:label ""
+:id "199769a2-47ed-11f0-8c33-e5496242a4da"
+:fontWeight 400
+:noFill true
+:point [485.96 255]
+:fontSize 32
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [92.18 0]
+:bindingId "20dad941-47ed-11f0-8c33-e5496242a4da"}
+:end 
+{:id "end"
+:canBind true
+:point [0 149]
+:bindingId "199769a1-47ed-11f0-8c33-e5496242a4da"}}
+:decorations 
+{:end "arrow"}
 :parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:collapsedHeight 0
-:nonce 1750176091786}}
-:block/updated-at 1750186095287} 
+:nonce 1749774411301
+:italic false}}
+:block/updated-at 1749775108149} 
 {:block/created-at 1750186002167
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -999,7 +958,48 @@
 :parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
 :collapsedHeight 0
 :nonce 1750176172550}}
-:block/updated-at 1750186002167})
+:block/updated-at 1752123488088} 
+{:block/content "I Love It"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "684b652f-cc71-4d52-9bec-bf661d09a8a1"}
+:block/parent 
+{:block/uuid #uuid "684b62c2-477f-44d9-9629-c15edfcd041d"}
+:block/uuid #uuid "684b65a4-a2b2-43f3-a80c-d513b2f429c1"} 
+{:block/created-at 1749775108143
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 6
+:scale [1 1]
+:pageId "I Love It"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 237.9999760165429]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "f6336960-47e6-11f0-bedf-c52bac7f8793"
+:noFill false
+:point [512 16]
+:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
+:collapsedHeight 93.00001094012956
+:nonce 1749771775161}}
+:block/updated-at 1749775108143} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "684b62c2-477f-44d9-9629-c15edfcd041d"}
+:block/parent 
+{:block/uuid #uuid "684b62c2-477f-44d9-9629-c15edfcd041d"}
+:block/uuid #uuid "684b652f-cc71-4d52-9bec-bf661d09a8a1"})
 :pages (
 {:block/uuid #uuid "684b62c2-477f-44d9-9629-c15edfcd041d"
 :block/properties 
@@ -1435,7 +1435,7 @@
 :nonce 1
 :assets []
 :shapes-index ("7dcf1960-47e6-11f0-bedf-c52bac7f8793" "0b341190-47e5-11f0-bedf-c52bac7f8793" "0f871800-47e5-11f0-bedf-c52bac7f8793" "12c94ab0-47e5-11f0-bedf-c52bac7f8793" "359d0090-47e5-11f0-bedf-c52bac7f8793" "dfbde660-47e6-11f0-bedf-c52bac7f8793" "f6336960-47e6-11f0-bedf-c52bac7f8793" "04412100-47e7-11f0-bedf-c52bac7f8793" "75934a90-47e7-11f0-bedf-c52bac7f8793" "b436c0b0-47e7-11f0-bedf-c52bac7f8793" "2b967c82-47e9-11f0-bedf-c52bac7f8793" "5fdc4ab2-47e9-11f0-bedf-c52bac7f8793" "9fb6ba30-47e9-11f0-bedf-c52bac7f8793" "a8870b62-47e9-11f0-bedf-c52bac7f8793" "ab5bd641-47e9-11f0-bedf-c52bac7f8793" "bbbf3db2-47e9-11f0-bedf-c52bac7f8793" "d77d71c0-47e9-11f0-bedf-c52bac7f8793" "1b01c480-47ec-11f0-8c33-e5496242a4da" "199769a2-47ed-11f0-8c33-e5496242a4da" "551de850-47ed-11f0-8c33-e5496242a4da" "6106eb30-47ed-11f0-8c33-e5496242a4da" "6fcfdc80-47ed-11f0-8c33-e5496242a4da" "c6422ea2-47ee-11f0-8c33-e5496242a4da" "e067e862-47ee-11f0-8c33-e5496242a4da" "e780c592-47ee-11f0-8c33-e5496242a4da" "83ca3b72-47ef-11f0-8c33-e5496242a4da" "3ca3f860-4b93-11f0-8c33-e5496242a4da" "c117e612-4b93-11f0-8c33-e5496242a4da" "e4c755f0-4b93-11f0-8c33-e5496242a4da" "204a2b20-4b94-11f0-8c33-e5496242a4da" "559b00b0-4b94-11f0-8c33-e5496242a4da" "85d028a0-4b94-11f0-8c33-e5496242a4da")}}
-:block/updated-at 1750186438024
+:block/updated-at 1752123914162
 :block/created-at 1749770946635
 :block/type "whiteboard"
 :block/name "rhetorical triangle and enlightenment"

@@ -6,4 +6,4 @@
 - Qualities:
 	- Human [[dignity]] and [[worth]], [[reason]], [[compassion]], [[hope]]
 - Products:
-	- [[art]], [[meaning]], [[science]]
+	- [[art]], [[meaning]], [[Science]]

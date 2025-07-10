@@ -1,0 +1,1 @@
+- As defined by Erich From, meaning or equating to [[Free Will]]

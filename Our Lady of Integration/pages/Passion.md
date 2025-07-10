@@ -1,0 +1,1 @@
+- Defined by Albert Camus in The Myth of Sisyphus and by Dustin
