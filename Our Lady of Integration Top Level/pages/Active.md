@@ -1,0 +1,2 @@
+- A state of self-directed being.
+- When actions are informed or aligned with goals without regard to an objective analysis of information or morality of goal.

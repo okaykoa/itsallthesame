@@ -1,0 +1,2 @@
+- The undeniable (unpreventable?) biological aspects of the human condition that serve as experiential objects of biological drives
+- As needs go unsatisfied, animal drives become more powerful in compelling the individual to satisfy them, potentially contradicting the individual's sense of values, ethics, or belief.

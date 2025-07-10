@@ -1,0 +1,2 @@
+- A state of externally driven being.
+- When actions are driven primarily by impulses or drives or as a reactionary response to external stimuli as opposed to being driven from within and with alignment to the concept of self.

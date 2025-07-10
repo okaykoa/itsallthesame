@@ -1,0 +1,2 @@
+- A state of incertainty of self in terms of physiological, psychological, social, and spiritual well-being.
+- Related to related to enforcers and firefighters in Parts Theory and states of unsatisfied needs in Maslow's Hierarchy of Needs.

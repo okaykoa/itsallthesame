@@ -1,0 +1,2 @@
+- A state of confidence in self in terms of physiological, psychological, social, and spiritual well-being
+- Related to the ideal of Parts Theory and the state of self actualization in Maslow's Hierarchy of Needs.

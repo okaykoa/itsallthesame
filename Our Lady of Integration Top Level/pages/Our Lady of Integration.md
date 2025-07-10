@@ -1,10 +1,1 @@
-- Philosophy/Rhetorical Appeal: [[It's all the same]]
-- Practice/State of Being: [[Philosophy]], [[Practice]], [[Enlightenment]]
-- Enlightenment/Essence: [[Religion]]
-- Icon/Symbol:
-	- [[God]]
-	- [[Human]]
-	- [[The in-between]]
-- Idol/Value: [[Well-being]]
-- God/Worship: [[Absurd]]
-- Power/Magic: [[Being]]
+- Our Lady of Integration is a paradigm of religious practice based on this idea of states of being and [[integration]]. We call it Our Lady of Integration to borrow heavily from the aesthetic of [[institutional religion]], as I think it could easily be dismissed from a religious conversation as philosophy or [[self help]]. We are seeking to create something deeper, more spiritual, more dogmatic, and more ethereal. So, spiritual or religious.

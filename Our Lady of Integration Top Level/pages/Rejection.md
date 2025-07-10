@@ -1,0 +1,2 @@
+- The state of judging or rejecting how things are.
+- Rejection is the opposite of [[Acceptance]] and the [[Active]] corollary to [[Ignorance]].
