@@ -1,0 +1,2 @@
+- The [[Practice]] of the [[Philosophy]] of [[Enlightenment]] or the realization of [[Enlightenment]] through [[Acceptance]] of the reality that [[It's all the same]].
+- This principle taught in the Buddhist parable of [[Wash Your Bowl]].
