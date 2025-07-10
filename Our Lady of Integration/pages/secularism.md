@@ -1,0 +1,6 @@
+- Definition:
+	- Interprets reality on material principles without religion
+- Key principles:
+	- [[science]], [[humanism]], human [[well-being]]
+- Relates to:
+- Qualities:

@@ -1,0 +1,1 @@
+- [[meaning]] is [[personal]] or [[occult]]

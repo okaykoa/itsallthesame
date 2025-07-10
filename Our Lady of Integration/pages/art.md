@@ -1,0 +1,3 @@
+- products and activities done for human [[enjoyment]] rather than [[survival]]
+- qualities:
+	- [[playfulness]], [[awe]], [[wonder]], [[meaning]]

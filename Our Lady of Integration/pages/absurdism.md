@@ -1,0 +1,8 @@
+- Definition:
+	- Living life without appeal
+- Key principles:
+	- [[meaninglessness]]
+- related to:
+	- In response to [[nihilism]]
+- Qualities:
+	- [[playfulness]], [[personal]], [[unserious]], [[sardonic]]

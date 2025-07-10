@@ -1,0 +1,10 @@
+- Definition:
+	- A practice of connection to the transcendent, the spiritual, the ineffable
+- Key Principles:
+	- [[esotericism]], [[gnosticism]], [[god]]
+- relates to:
+- Qualities:
+	- [[spirituality]], [[transcendence]], [[ineffable]], [[occult]]
+- Products:
+	- [[religion]], [[cult]], [[art]]
+	-

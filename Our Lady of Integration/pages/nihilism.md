@@ -1,0 +1,7 @@
+- Definition:
+	- There is no meaning or reason to life
+- Key Principles:
+	- [[meaninglessness]]
+- Relates to:
+- Qualities:
+	- [[despair]], [[hopelessness]], [[contempt]]

@@ -1,0 +1,5 @@
+- Definition:
+	- The lack of meaning
+- Key principles:
+- Relates to:
+	- [[meaning]]

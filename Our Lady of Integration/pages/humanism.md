@@ -1,0 +1,9 @@
+- Definition:
+	- Views the universe with humanity's role as subject and object at the center
+- Key principles:
+	- Human [[well-being]], Human [[values]], Human capacity for good
+- Relates to:
+- Qualities:
+	- Human [[dignity]] and [[worth]], [[reason]], [[compassion]], [[hope]]
+- Products:
+	- [[art]], [[meaning]], [[science]]
