@@ -1,0 +1,1 @@
+- The degree to which one feels satisfied, [[Secure]], satiated or unsatisfied, [[Insecure]], or ___ regarding their [[Biological Needs]].

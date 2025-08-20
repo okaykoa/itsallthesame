@@ -1,0 +1,3 @@
+- States of being are the way that a person feels about their existence.
+- The state of being is directly tied to their [[Biological Needs]], whether they are [[Secure]] or [[Insecure]] in their needs.
+- In [[Rhetorical Integration]], states of being can be categorized at the large scale into [[Philosophy]], [[Practice]], and [[Enlightenment]].

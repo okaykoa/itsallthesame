@@ -1,3 +1,3 @@
 - The state of lacking knowledge about how things are or that they are, including the state of being deceived about the nature of things.
 - In the state of ignorance, one fixates on the pain caused by unsatisfied [[Biological Needs]] associating pain and dissatisfaction with moral concepts of bad. One may engage in the act of [[Chop Wood, Carry Water]], but they do not see its [[Divine]] nature.
-- In [[Our Lady of Integration]], ignorance is the state caused by the inability to practice [[Integration]]
+- In [[Rhetorical Integration]], ignorance is the state caused by the inability to practice [[Integration]]

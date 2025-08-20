@@ -336,7 +336,7 @@
 :collapsedHeight 0
 :nonce 1750176091786}}
 :block/updated-at 1752123488088} 
-{:block/created-at 1752123488087
+{:block/created-at 1752163108816
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -352,7 +352,7 @@
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 386.9999887342866]
+:size [400 435.00002445515247]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -361,8 +361,8 @@
 :point [-16 832]
 :parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
 :collapsedHeight 93
-:nonce 1749772094671}}
-:block/updated-at 1752123488087} 
+:nonce 1749772094673}}
+:block/updated-at 1752163108816} 
 {:block/created-at 1749774394885
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -679,7 +679,7 @@
 :collapsedHeight 374
 :nonce 1749770951243}}
 :block/updated-at 1749772872526} 
-{:block/created-at 1752123488088
+{:block/created-at 1752163108829
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -696,13 +696,13 @@
 :id "e780c592-47ee-11f0-8c33-e5496242a4da"
 :fontWeight 400
 :noFill true
-:point [282.79 719]
+:point [289.64 719]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [56.78 0]
+:point [53.99 0]
 :bindingId "e8fa9451-47ee-11f0-8c33-e5496242a4da"}
 :end 
 {:id "end"
@@ -712,10 +712,10 @@
 :decorations 
 {:end "arrow"}
 :parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:nonce 1749775186296
+:nonce 1749775186298
 :italic false}}
-:block/updated-at 1752123488088} 
-{:block/created-at 1752123488088
+:block/updated-at 1752163108829} 
+{:block/created-at 1752163108831
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -732,7 +732,7 @@
 :id "2b967c82-47e9-11f0-bedf-c52bac7f8793"
 :fontWeight 400
 :noFill true
-:point [385 1039.99]
+:point [385 1047.84]
 :fontSize 20
 :handles 
 {:start 
@@ -743,15 +743,15 @@
 :end 
 {:id "end"
 :canBind true
-:point [115 89.26]
+:point [115 84.94]
 :bindingId "b2bde331-4b93-11f0-8c33-e5496242a4da"}}
 :decorations 
 {:end "arrow"}
 :parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
-:nonce 1749772724679
+:nonce 1749772724681
 :italic false}}
-:block/updated-at 1752123488088} 
-{:block/created-at 1750185996863
+:block/updated-at 1752163108831} 
+{:block/created-at 1755725792085
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -773,11 +773,11 @@
 :opacity 1
 :id "e4c755f0-4b93-11f0-8c33-e5496242a4da"
 :noFill false
-:point [96 16]
+:point [936 -472]
 :parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
 :collapsedHeight 0
-:nonce 1750175902505}}
-:block/updated-at 1752123488088} 
+:nonce 1750175902915}}
+:block/updated-at 1755725792085} 
 {:block/created-at 1752123488088
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -999,14 +999,42 @@
 {:block/uuid #uuid "684b62c2-477f-44d9-9629-c15edfcd041d"}
 :block/parent 
 {:block/uuid #uuid "684b62c2-477f-44d9-9629-c15edfcd041d"}
-:block/uuid #uuid "684b652f-cc71-4d52-9bec-bf661d09a8a1"})
+:block/uuid #uuid "684b652f-cc71-4d52-9bec-bf661d09a8a1"} 
+{:block/created-at 1755725816673
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 32
+:scale [1 1]
+:pageId "Rhetorical Integration"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [664 617.9999201025413]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9f689030-7e0d-11f0-843d-c1bf7a21fd46"
+:noFill false
+:point [-336 -416]
+:parentId "684b62c2-477f-44d9-9629-c15edfcd041d"
+:collapsedHeight 0
+:nonce 1755725742969}}
+:block/updated-at 1755725816673})
 :pages (
 {:block/uuid #uuid "684b62c2-477f-44d9-9629-c15edfcd041d"
 :block/properties 
 {:ls-type :whiteboard-page
 :logseq.tldraw.page 
 {:id "684b62c2-477f-44d9-9629-c15edfcd041d"
-:name "rhetorical triangle and enlightenment"
+:name "rhetorical integration diagram"
 :bindings 
 {:a8870b61-47e9-11f0-bedf-c52bac7f8793 
 {:id "a8870b61-47e9-11f0-bedf-c52bac7f8793"
@@ -1434,9 +1462,9 @@
 :distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("7dcf1960-47e6-11f0-bedf-c52bac7f8793" "0b341190-47e5-11f0-bedf-c52bac7f8793" "0f871800-47e5-11f0-bedf-c52bac7f8793" "12c94ab0-47e5-11f0-bedf-c52bac7f8793" "359d0090-47e5-11f0-bedf-c52bac7f8793" "dfbde660-47e6-11f0-bedf-c52bac7f8793" "f6336960-47e6-11f0-bedf-c52bac7f8793" "04412100-47e7-11f0-bedf-c52bac7f8793" "75934a90-47e7-11f0-bedf-c52bac7f8793" "b436c0b0-47e7-11f0-bedf-c52bac7f8793" "2b967c82-47e9-11f0-bedf-c52bac7f8793" "5fdc4ab2-47e9-11f0-bedf-c52bac7f8793" "9fb6ba30-47e9-11f0-bedf-c52bac7f8793" "a8870b62-47e9-11f0-bedf-c52bac7f8793" "ab5bd641-47e9-11f0-bedf-c52bac7f8793" "bbbf3db2-47e9-11f0-bedf-c52bac7f8793" "d77d71c0-47e9-11f0-bedf-c52bac7f8793" "1b01c480-47ec-11f0-8c33-e5496242a4da" "199769a2-47ed-11f0-8c33-e5496242a4da" "551de850-47ed-11f0-8c33-e5496242a4da" "6106eb30-47ed-11f0-8c33-e5496242a4da" "6fcfdc80-47ed-11f0-8c33-e5496242a4da" "c6422ea2-47ee-11f0-8c33-e5496242a4da" "e067e862-47ee-11f0-8c33-e5496242a4da" "e780c592-47ee-11f0-8c33-e5496242a4da" "83ca3b72-47ef-11f0-8c33-e5496242a4da" "3ca3f860-4b93-11f0-8c33-e5496242a4da" "c117e612-4b93-11f0-8c33-e5496242a4da" "e4c755f0-4b93-11f0-8c33-e5496242a4da" "204a2b20-4b94-11f0-8c33-e5496242a4da" "559b00b0-4b94-11f0-8c33-e5496242a4da" "85d028a0-4b94-11f0-8c33-e5496242a4da")}}
-:block/updated-at 1752123914162
+:shapes-index ("7dcf1960-47e6-11f0-bedf-c52bac7f8793" "0b341190-47e5-11f0-bedf-c52bac7f8793" "0f871800-47e5-11f0-bedf-c52bac7f8793" "12c94ab0-47e5-11f0-bedf-c52bac7f8793" "359d0090-47e5-11f0-bedf-c52bac7f8793" "dfbde660-47e6-11f0-bedf-c52bac7f8793" "f6336960-47e6-11f0-bedf-c52bac7f8793" "04412100-47e7-11f0-bedf-c52bac7f8793" "75934a90-47e7-11f0-bedf-c52bac7f8793" "b436c0b0-47e7-11f0-bedf-c52bac7f8793" "2b967c82-47e9-11f0-bedf-c52bac7f8793" "5fdc4ab2-47e9-11f0-bedf-c52bac7f8793" "9fb6ba30-47e9-11f0-bedf-c52bac7f8793" "a8870b62-47e9-11f0-bedf-c52bac7f8793" "ab5bd641-47e9-11f0-bedf-c52bac7f8793" "bbbf3db2-47e9-11f0-bedf-c52bac7f8793" "d77d71c0-47e9-11f0-bedf-c52bac7f8793" "1b01c480-47ec-11f0-8c33-e5496242a4da" "199769a2-47ed-11f0-8c33-e5496242a4da" "551de850-47ed-11f0-8c33-e5496242a4da" "6106eb30-47ed-11f0-8c33-e5496242a4da" "6fcfdc80-47ed-11f0-8c33-e5496242a4da" "c6422ea2-47ee-11f0-8c33-e5496242a4da" "e067e862-47ee-11f0-8c33-e5496242a4da" "e780c592-47ee-11f0-8c33-e5496242a4da" "83ca3b72-47ef-11f0-8c33-e5496242a4da" "3ca3f860-4b93-11f0-8c33-e5496242a4da" "c117e612-4b93-11f0-8c33-e5496242a4da" "e4c755f0-4b93-11f0-8c33-e5496242a4da" "204a2b20-4b94-11f0-8c33-e5496242a4da" "559b00b0-4b94-11f0-8c33-e5496242a4da" "85d028a0-4b94-11f0-8c33-e5496242a4da" "9f689030-7e0d-11f0-843d-c1bf7a21fd46")}}
+:block/updated-at 1755725816673
 :block/created-at 1749770946635
 :block/type "whiteboard"
-:block/name "rhetorical triangle and enlightenment"
-:block/original-name "Rhetorical Triangle and Enlightenment"})}
+:block/name "rhetorical integration diagram"
+:block/original-name "Rhetorical Integration Diagram"})}
